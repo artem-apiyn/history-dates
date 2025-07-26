@@ -31,7 +31,7 @@ npm install
 
 ### 3. Запустить проект
 
-npm start
+npm run start
  
 ### 4. Структура проекта
 
