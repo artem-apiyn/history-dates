@@ -22,7 +22,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/your-username/test-task.git
+git clone https://github.com/artem-apiyn/history-dates.git
 cd test-task
 
 ### 2. Установить зависимости
